@@ -1,0 +1,2 @@
+Cromatyka Tools 1.0 — PWA de prueba
+Publicar los cinco archivos web juntos en un alojamiento HTTPS (por ejemplo GitHub Pages). Abrir la URL en Chrome Android, menú ⋮ > Instalar aplicación o Añadir a pantalla de inicio. Permitir micrófono. Tras la primera carga, probar sin conexión. No abrir index.html desde el ZIP para probar instalación. Pruebas físicas pendientes: micrófono, afinación, sonido, metrónomo, instalación y modo offline. No es APK.
